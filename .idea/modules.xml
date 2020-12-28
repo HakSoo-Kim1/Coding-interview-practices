@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Interview-Problems.iml" filepath="$PROJECT_DIR$/.idea/Interview-Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview-Problemss.iml" filepath="$PROJECT_DIR$/Interview-Problemss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/전화번호부 목록.iml" filepath="$PROJECT_DIR$/전화번호부 목록.iml" />
     </modules>
   </component>
 </project>
