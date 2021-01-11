@@ -1,5 +1,4 @@
 def solution(brown, yellow):
-    answer = []
     brown = brown - 4
     for height in range( 1 , yellow + 1):
         width = yellow / height
